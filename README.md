@@ -2,15 +2,15 @@
 
 ## Índice
 
-[v0](https://pinogz.github.io/V0/index.html)
+[v0](./V0/index.html)
 
-[v1](https://pinogz.github.io/V1/index.html)
+[v1](./V1/index.html)
 
-[v2.1](https://pinogz.github.io/V2.1/Info/index.html)
+[v2.1](./V2.1/Info/index.html)
 
-[v2.1 + noinfo](https://pinogz.github.io/V2.1/Withoutinfo/index.html)
+[v2.1 + noinfo](./V2.1/Withoutinfo/index.html)
 
-[v2.1](https://pinogz.github.io/V2.2/index.html)
+[v2.1](./V2.2/index.html)
 
 Malditos Bastardos
 ==================
